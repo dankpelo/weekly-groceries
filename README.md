@@ -13,6 +13,7 @@ Este projeto foi construído utilizando:
 - **HTML5**: estruturação semântica da página
 - **CSS3**: estilização com Flexbox, variáveis CSS (custom properties) e transições/animações
 - **JavaScript**: manipulação do DOM, criação dinâmica de elementos e gerenciamento de eventos
+- **Figma**: utilizado para referência do layout e design da interface
 
 ## ✨ Funcionalidades
 
@@ -32,7 +33,3 @@ Cada item da lista é composto por:
 - Um container (`.item-row`) organizando o conteúdo em flexbox com `justify-content: space-between`
 - Um `label` (`.item-name`) agrupando o checkbox e o texto do item
 - Um ícone de exclusão (`.delete-icon`) posicionado como elemento irmão do label
-
-## 👤 Autor
-
-Projeto desenvolvido como parte dos estudos em Lógica de Programação.
